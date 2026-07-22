@@ -1,9 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="description"
+        content="Ben Raymond's GIS, art, and development portfolio."
+    >
+
     <title>Ben Raymond | Portfolio</title>
 
     <link rel="stylesheet" href="style.css">
@@ -11,68 +20,289 @@
 
 <body>
 
-    <header>
-        <h1>Ben Raymond</h1>
+    <!-- Navigation -->
+    <!-- WIP BANNER-->
+    <div class="announcement-banner">
+    🚧 This portfolio is currently a work in progress. New projects and features are being added regularly.
+    </div>
 
-        <p class="subtitle">
-            GIS Analyst • Amateur Developer • Visual Artist
-        </p>
+<header class="site-header">
+    ...
+</header>
+    <!-- Header-->
+    <header class="site-header">
+        <nav class="navbar container">
+            <a class="logo" href="#home">BR</a>
 
-        <p class="intro">
-            Fascinated by the power of spatial data. Inspired by the world
-            around me. Driven by curiosity and creativity.
-        </p>
-
-        <div class="buttons">
-            <a href="#projects">Projects</a>
-            <a href="#gallery">Gallery</a>
-            <a href="#about">About</a>
-            <a href="#contact">Contact</a>
-        </div>
+            <ul class="nav-links">
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a class="contact-link" href="#contact">Contact</a></li>
+            </ul>
+        </nav>
     </header>
 
-    <section id="projects">
+    <main>
 
-        <h2>Featured Project</h2>
+        <!-- Introduction -->
+        <section id="home" class="hero container">
+            <div class="hero-text">
+                <p class="eyebrow">GIS Analyst · Visual Artist · Amateur Developer</p>
 
-        <div class="card">
+                <h1>
+                    Hey, I'm Ben.
+                </h1>
 
-            <h3>Kendama Kentei Practice App</h3>
+                <h1>    
+                    I love maps, data, and making art.
+                </h1>
 
-            <p>
-                A desktop application built with Python and Flet
-                that helps players prepare for official Kendama
-                Kentei testing.
-            </p>
+                <p class="hero-description">
+                    I'm a GIS Analyst based in New York City. My work focuses
+                    on spatial data, quality control, automation, and practical
+                    tools that make complicated workflows easier.
+                </p>
 
+                <div class="hero-buttons">
+                    <a class="button primary-button" href="#projects">
+                        View my work
+                    </a>
+
+                    <a class="button secondary-button" href="#contact">
+                        Contact me
+                    </a>
+                </div>
+            </div>
+
+            <img
+                class="profile-image"
+                src="images/benKWC.JPG"
+                alt="Portrait of Ben Raymond competing at KWC 2025"
+            >
+        </section>
+
+        <!-- Featured Projects -->
+        <section id="projects" class="section container">
+            <div class="section-heading">
+                <p class="eyebrow">Selected work</p>
+                <h2>Featured Projects</h2>
+            </div>
+
+            <div class="featured-grid">
+
+                <a class="featured-card" href="kendama.html">
+                    <div>
+                        <p class="project-type">Python Application</p>
+                        <h3>Kendama Kentei Practice</h3>
+
+                        <p>
+                            A simple practice application that organizes
+                            Kendama Kentei tricks and tracks progress.
+                        </p>
+                    </div>
+
+                    <span class="card-arrow">↗</span>
+                </a>
+
+                <a class="featured-card" href="gis-project.html">
+                    <div>
+                        <p class="project-type">GIS and Data</p>
+                        <h3>Spatial Data Quality Project</h3>
+
+                        <p>
+                            A GIS workflow for auditing, correcting, and
+                            maintaining large spatial datasets.
+                        </p>
+                    </div>
+
+                    <span class="card-arrow">↗</span>
+                </a>
+
+                <a class="featured-card" href="portfolio-site.html">
+                    <div>
+                        <p class="project-type">Web Development</p>
+                        <h3>Portfolio Website</h3>
+
+                        <p>
+                            A lightweight portfolio built with HTML, CSS,
+                            GitHub Pages, and a custom domain.
+                        </p>
+                    </div>
+
+                    <span class="card-arrow">↗</span>
+                </a>
+
+            </div>
+        </section>
+
+        <!-- Art Gallery -->
+        <section class="section container">
+            <div class="section-heading">
+                <p class="eyebrow">Visual Artwork</p>
+                <h2>Gallery</h2>
+
+                <p>
+                    A gallery showcasing my visual artwork, including paintings, screenprinting, and other mixed media projects.
+                </p>
+            </div>
+
+            <!-- Where to insert a photo carousel -->
+
+        <section class="gallery-section">
+            <div class="carousel">
+                <button
+                    class="carousel-button previous"
+                    type="button"
+                    aria-label="Previous image"
+            >
+                    &#10094;
+            </button>
+
+            <div class="carousel-track">
+                <img
+                    class="carousel-image active"
+                    src="images/gallery-1.jpg"
+                    alt="Description of gallery image one"
+                >
+
+                <img
+                    class="carousel-image"
+                    src="images/gallery-2.jpg"
+                    alt="Description of gallery image two"
+                >
+
+                <img
+                    class="carousel-image"
+                    src="images/gallery-3.jpg"
+                    alt="Description of gallery image three"
+                >
+
+                <img
+                    class="carousel-image"
+                    src="images/gallery-4.jpg"
+                    alt="Description of gallery image four"
+                >
+            </div>
+
+            <button
+                class="carousel-button next"
+                type="button"
+                aria-label="Next image"
+            >
+                &#10095;
+            </button>
         </div>
 
+        <div class="carousel-dots">
+            <button class="dot active" aria-label="Show image 1"></button>
+            <button class="dot" aria-label="Show image 2"></button>
+            <button class="dot" aria-label="Show image 3"></button>
+            <button class="dot" aria-label="Show image 4"></button>
+        </div>
     </section>
 
-    <section>
+        <!-- About -->
+        <section id="about" class="section about-section">
+            <div class="container about-layout">
+                <div>
+                    <p class="eyebrow">About me</p>
+                    <h2>Data should be accurate and useful.</h2>
+                </div>
 
-        <h2>About Me</h2>
+                <div class="about-copy">
+                    <p>
+                        I specialize in GIS data management, quality assurance,
+                        database maintenance, and workflow improvement.
+                    </p>
 
-        <p>
-            I'm a GIS Analyst with a passion for spatial data, 
-            learning Python development, and visual art. I live
-            in New York City and enjoy spending my time playing
-            kendama, rock climbing, and learning as much as I can
-            about the world around me.
-        </p>
+                    <p>
+                        I also build small tools with Python and create
+                        straightforward websites that prioritize clarity
+                        over unnecessary complexity.
+                    </p>
+                </div>
+            </div>
+        </section>
 
-    </section>
+        <!-- Extras -->
+        <section id="extras" class="section container">
+            <div class="section-heading">
+                <p class="eyebrow">Outside of work</p>
+                <h2>Extras</h2>
+            </div>
 
-    <footer id="contact">
+            <div class="link-list">
 
-        <h2>Contact</h2>
+                <a href="#">
+                    <span>GitHub</span>
+                    <span>Code and projects ↗</span>
+                </a>
+            </div>
+        </section>
 
-        <p>Email: ben@benraymond.me</p>
+        <!-- Contact -->
+        <section id="contact" class="section contact-section">
+            <div class="container contact-layout">
+                <div>
+                    <p class="eyebrow">Get in touch</p>
+                    <h2>Let's work together.</h2>
 
-        <p>GitHub: github.com/raymond-ben</p>
+                    <p>
+                        Have a question about my work or an opportunity you'd
+                        like to discuss? Send me a message.
+                    </p>
+                </div>
 
+                <form
+                    class="contact-form"
+                    action="https://formspree.io/f/YOUR_FORM_ID"
+                    method="POST"
+                >
+                    <label for="name">Name</label>
+                    <input
+                        id="name"
+                        name="name"
+                        type="text"
+                        required
+                    >
+
+                    <label for="email">Email</label>
+                    <input
+                        id="email"
+                        name="email"
+                        type="email"
+                        required
+                    >
+
+                    <label for="message">Message</label>
+                    <textarea
+                        id="message"
+                        name="message"
+                        rows="6"
+                        required
+                    ></textarea>
+
+                    <button class="button primary-button" type="submit">
+                        Send message
+                    </button>
+                </form>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+        <div class="container footer-content">
+            <p>© 2026 Ben Raymond</p>
+
+            <div>
+                <a href="#">GitHub</a>
+                <a href="mailto:hello@example.com">Email</a>
+            </div>
+        </div>
     </footer>
 
+<script src="script.js"></script>
 </body>
-
 </html>
