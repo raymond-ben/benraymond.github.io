@@ -258,15 +258,17 @@ h3 {
     overflow: hidden;
     border: 2px solid #000;
     border-radius: 24px;
-    aspect-ratio: 16 / 9;
     background: #ddd;
 }
 
 .carousel-image {
     display: none;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+    width: auto;
+    max-width: 100%;
+    max-height: 75vh;
+    height: auto;
+    object-fit: contain;
+    margin: 0 auto;
 }
 
 .carousel-image.active {
@@ -351,6 +353,14 @@ h3 {
     font-size: 1.2rem;
 }
 
+.class-button {
+    background: #161616;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    cursor: pointer;
+    text-align: right;
+}
 
 /* Extras */
 

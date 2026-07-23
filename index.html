@@ -91,31 +91,29 @@
 
             <div class="featured-grid">
 
-                <a class="featured-card" href="kendama.html">
-                    <div>
-                        <p class="project-type">Python Application</p>
-                        <h3>Kendama Kentei Practice</h3>
-
-                        <p>
-                            A simple practice application that organizes
-                            Kendama Kentei tricks and tracks progress.
-                        </p>
-                    </div>
+                <a  class="featured-card"
+                    href="https://github.com/raymond-ben/Kendama-Kentei-Test-Practice"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    <p class="project-type">Python Application</p>
+                    <h3>Kendama Kentei Practice</h3>
+                    <p>
+                        A lightweight application built with Python and Flet for practicing Kendama Kentei Test tricklists.
+                    </p>
 
                     <span class="card-arrow">↗</span>
                 </a>
 
-                <a class="featured-card" href="gis-project.html">
-                    <div>
-                        <p class="project-type">GIS and Data</p>
-                        <h3>Spatial Data Quality Project</h3>
-
-                        <p>
-                            A GIS workflow for auditing, correcting, and
-                            maintaining large spatial datasets.
-                        </p>
-                    </div>
-
+                <a class="featured-card"
+                    href="https://storymaps.arcgis.com/stories/ae61ece244264a0494ba1dba176bf20c"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    <p class="project-type">GIS and Automation</p>
+                    <h3>ESRI Storymap Project</h3>
+                    <p>
+                        A story map that highlights a GIS automation project I worked on, demonstrating the use of spatial data and automated workflows.
+                    </p>
+                   
                     <span class="card-arrow">↗</span>
                 </a>
 
@@ -137,7 +135,7 @@
         </section>
 
         <!-- Art Gallery -->
-        <section class="section container">
+        <section id="gallery" class="section gallery-section">
             <div class="section-heading">
                 <p class="eyebrow">Visual Artwork</p>
                 <h2>Gallery</h2>
@@ -162,26 +160,38 @@
             <div class="carousel-track">
                 <img
                     class="carousel-image active"
-                    src="images/gallery-1.jpg"
-                    alt="Description of gallery image one"
+                    src="images/gallery-1.jpeg"
+                    alt="Bee and Flower - Linocut Print"
+                >
+                
+                <img
+                    class="carousel-image"
+                    src="images/gallery-2.jpeg"
+                    alt="2021 Dead and Company Summer Tour Lot Tshirt - Digital/Screenprint/Tie-Dye"
                 >
 
                 <img
                     class="carousel-image"
-                    src="images/gallery-2.jpg"
-                    alt="Description of gallery image two"
+                    src="images/gallery-3.jpeg"
+                    alt="Buffalo Head Lot Tshirt - Digital/Screenprint/Tie-Dye"
                 >
 
                 <img
                     class="carousel-image"
-                    src="images/gallery-3.jpg"
-                    alt="Description of gallery image three"
+                    src="images/gallery-4.jpeg"
+                    alt="Buffalo Head Stickers"
                 >
 
                 <img
                     class="carousel-image"
-                    src="images/gallery-4.jpg"
-                    alt="Description of gallery image four"
+                    src="images/gallery-5.jpeg"
+                    alt="Magic: the Gathering Food Token - Acrylic Painting"
+                >
+
+                <img
+                    class="carousel-image"
+                    src="images/gallery-6.jpeg"
+                    alt="Self Portrait - Mixed Media"
                 >
             </div>
 
@@ -199,6 +209,8 @@
             <button class="dot" aria-label="Show image 2"></button>
             <button class="dot" aria-label="Show image 3"></button>
             <button class="dot" aria-label="Show image 4"></button>
+            <button class="dot" aria-label="Show image 5"></button>
+            <button class="dot" aria-label="Show image 6"></button>
         </div>
     </section>
 
@@ -207,7 +219,7 @@
             <div class="container about-layout">
                 <div>
                     <p class="eyebrow">About me</p>
-                    <h2>Data should be accurate and useful.</h2>
+                    <h2>Ben Raymond GIS Analyst</h2>
                 </div>
 
                 <div class="about-copy">
@@ -217,12 +229,14 @@
                     </p>
 
                     <p>
-                        I also build small tools with Python and create
-                        straightforward websites that prioritize clarity
-                        over unnecessary complexity.
+                        I like to explore new technologies and creative ways to apply GIS and development skills to my everyday problems.
                     </p>
                 </div>
             </div>
+
+             <button class="class-button" type="button" onclick="window.location.href='about.html'">
+                 Learn More →
+            </button>
         </section>
 
         <!-- Extras -->
@@ -234,9 +248,10 @@
 
             <div class="link-list">
 
-                <a href="#">
-                    <span>GitHub</span>
-                    <span>Code and projects ↗</span>
+                <a href="https://github.com/raymond-ben"
+                   target="_blank"
+                   rel="noopener noreferrer">GitHub
+                   <span>Code and projects ↗</span>
                 </a>
             </div>
         </section>
@@ -256,7 +271,7 @@
 
                 <form
                     class="contact-form"
-                    action="https://formspree.io/f/YOUR_FORM_ID"
+                    action="https://formspree.io/f/xykrnepl"
                     method="POST"
                 >
                     <label for="name">Name</label>
@@ -297,8 +312,12 @@
             <p>© 2026 Ben Raymond</p>
 
             <div>
-                <a href="#">GitHub</a>
-                <a href="mailto:hello@example.com">Email</a>
+                <a href="https://github.com/raymond-ben"
+                   target="_blank"
+                   rel="noopener noreferrer">GitHub
+                </a>
+
+                <a href="mailto:ben@benraymond.me">Email</a>
             </div>
         </div>
     </footer>
