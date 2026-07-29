@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "trickNumber": 1,
+    "name": "Wave (Big Cup)",
+    "points": 1,
+    "finalsPoints": 1,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "trickNumber": 2,
+    "name": "Scooping Airplane",
+    "points": 1,
+    "finalsPoints": 1,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "trickNumber": 3,
+    "name": "Lazy Lighthouse",
+    "points": 1,
+    "finalsPoints": 1,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "trickNumber": 4,
+    "name": "Tama Drop Base Cup Catch",
+    "points": 1,
+    "finalsPoints": 1,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "trickNumber": 5,
+    "name": "Hula Hoop (Big Cup)",
+    "points": 1,
+    "finalsPoints": 1,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "trickNumber": 6,
+    "name": "Hanging, Two Hand Catch",
+    "points": 1,
+    "finalsPoints": 1,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "trickNumber": 7,
+    "name": "Easy Big Cup, Walk 5 Steps",
+    "points": 1,
+    "finalsPoints": 1,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "trickNumber": 8,
+    "name": "Easy Big Cup, Squat",
+    "points": 1,
+    "finalsPoints": 1,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "trickNumber": 9,
+    "name": "Easy Big Cup",
+    "points": 1,
+    "finalsPoints": 1,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "trickNumber": 10,
+    "name": "Easy Big Cup, Hop",
+    "points": 1,
+    "finalsPoints": 1,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "trickNumber": 1,
+    "name": "Candlestick",
+    "points": 2,
+    "finalsPoints": 4,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "trickNumber": 2,
+    "name": "Big Cup",
+    "points": 2,
+    "finalsPoints": 4,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "trickNumber": 3,
+    "name": "Small Cup, Big Cup, Base Cup",
+    "points": 2,
+    "finalsPoints": 4,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "trickNumber": 4,
+    "name": "Easy Big Cup, Hopscotch",
+    "points": 2,
+    "finalsPoints": 4,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "trickNumber": 5,
+    "name": "Baseball",
+    "points": 2,
+    "finalsPoints": 4,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "trickNumber": 6,
+    "name": "Takoyaki",
+    "points": 2,
+    "finalsPoints": 4,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "trickNumber": 7,
+    "name": "Easy Big Cup, Spike",
+    "points": 2,
+    "finalsPoints": 4,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "trickNumber": 8,
+    "name": "Moshikame x 11",
+    "points": 2,
+    "finalsPoints": 4,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 19,
+    "level": 2,
+    "trickNumber": 9,
+    "name": "Hanging Clap Catch",
+    "points": 2,
+    "finalsPoints": 4,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 20,
+    "level": 2,
+    "trickNumber": 10,
+    "name": "Pull Up Spike (Spin or No Spin)",
+    "points": 2,
+    "finalsPoints": 4,
+    "qualifier": true,
+    "finals": false
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "trickNumber": 1,
+    "name": "Tama Grip, Throw to Big Cup",
+    "points": 3,
+    "finalsPoints": 9,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "trickNumber": 2,
+    "name": "Airplane",
+    "points": 3,
+    "finalsPoints": 9,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 23,
+    "level": 3,
+    "trickNumber": 3,
+    "name": "Around Japan",
+    "points": 3,
+    "finalsPoints": 9,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 24,
+    "level": 3,
+    "trickNumber": 4,
+    "name": "Around the World",
+    "points": 3,
+    "finalsPoints": 9,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 25,
+    "level": 3,
+    "trickNumber": 5,
+    "name": "Moshikame x 10 or More, Spike",
+    "points": 3,
+    "finalsPoints": 9,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 26,
+    "level": 3,
+    "trickNumber": 6,
+    "name": "Lighthouse, In",
+    "points": 3,
+    "finalsPoints": 9,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 27,
+    "level": 3,
+    "trickNumber": 7,
+    "name": "Stuntplane",
+    "points": 3,
+    "finalsPoints": 9,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 28,
+    "level": 3,
+    "trickNumber": 8,
+    "name": "Swing Spike",
+    "points": 3,
+    "finalsPoints": 9,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 29,
+    "level": 3,
+    "trickNumber": 9,
+    "name": "Pull Up Spike (Spin or No Spin), Flying Top",
+    "points": 3,
+    "finalsPoints": 9,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 30,
+    "level": 3,
+    "trickNumber": 10,
+    "name": "Downspike",
+    "points": 3,
+    "finalsPoints": 9,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 31,
+    "level": 4,
+    "trickNumber": 1,
+    "name": "Spike, Flying Top Bungee Kenflip Spike",
+    "points": 4,
+    "finalsPoints": 16,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 32,
+    "level": 4,
+    "trickNumber": 2,
+    "name": "Jumping Stick",
+    "points": 4,
+    "finalsPoints": 16,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 33,
+    "level": 4,
+    "trickNumber": 3,
+    "name": "Around Europe",
+    "points": 4,
+    "finalsPoints": 16,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 34,
+    "level": 4,
+    "trickNumber": 4,
+    "name": "Stuntplane Fasthand",
+    "points": 4,
+    "finalsPoints": 16,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 35,
+    "level": 4,
+    "trickNumber": 5,
+    "name": "Base Cup, Swap In",
+    "points": 4,
+    "finalsPoints": 16,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 36,
+    "level": 4,
+    "trickNumber": 6,
+    "name": "1 Turn Lighthouse, Tradespike",
+    "points": 4,
+    "finalsPoints": 16,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 37,
+    "level": 4,
+    "trickNumber": 7,
+    "name": "Bird, 1 Turn Spike",
+    "points": 4,
+    "finalsPoints": 16,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 38,
+    "level": 4,
+    "trickNumber": 8,
+    "name": "Lunar, Flip In",
+    "points": 4,
+    "finalsPoints": 16,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 39,
+    "level": 4,
+    "trickNumber": 9,
+    "name": "Flamingo Takoyaki on Foot",
+    "points": 4,
+    "finalsPoints": 16,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 40,
+    "level": 4,
+    "trickNumber": 10,
+    "name": "Airplane, Base Cup, Downspike",
+    "points": 4,
+    "finalsPoints": 16,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 41,
+    "level": 5,
+    "trickNumber": 1,
+    "name": "Whirlpool Spike",
+    "points": 5,
+    "finalsPoints": 25,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 42,
+    "level": 5,
+    "trickNumber": 2,
+    "name": "Jumping Stick, Inward Jumping Stick",
+    "points": 5,
+    "finalsPoints": 25,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 43,
+    "level": 5,
+    "trickNumber": 3,
+    "name": "Around USA",
+    "points": 5,
+    "finalsPoints": 25,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 44,
+    "level": 5,
+    "trickNumber": 4,
+    "name": "Whirlwind",
+    "points": 5,
+    "finalsPoints": 25,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 45,
+    "level": 5,
+    "trickNumber": 5,
+    "name": "Juggle Big Cup, Spike",
+    "points": 5,
+    "finalsPoints": 25,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 46,
+    "level": 5,
+    "trickNumber": 6,
+    "name": "Stilt, Flip In",
+    "points": 5,
+    "finalsPoints": 25,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 47,
+    "level": 5,
+    "trickNumber": 7,
+    "name": "Handlestall, 1 Turn Spike",
+    "points": 5,
+    "finalsPoints": 25,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 48,
+    "level": 5,
+    "trickNumber": 8,
+    "name": "Inward Lunar, Lunar, Lighthouse, In",
+    "points": 5,
+    "finalsPoints": 25,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 49,
+    "level": 5,
+    "trickNumber": 9,
+    "name": "Tap Flip In",
+    "points": 5,
+    "finalsPoints": 25,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 50,
+    "level": 5,
+    "trickNumber": 10,
+    "name": "Spacewalk",
+    "points": 5,
+    "finalsPoints": 25,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 51,
+    "level": 6,
+    "trickNumber": 1,
+    "name": "Juggle Spike",
+    "points": 6,
+    "finalsPoints": 36,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 52,
+    "level": 6,
+    "trickNumber": 2,
+    "name": "Airplane, 1.5 Swap Spike",
+    "points": 6,
+    "finalsPoints": 36,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 53,
+    "level": 6,
+    "trickNumber": 3,
+    "name": "Inward 1 Turn Lighthouse, Inward Lighthouse Flip, Inward Flip In",
+    "points": 6,
+    "finalsPoints": 36,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 54,
+    "level": 6,
+    "trickNumber": 4,
+    "name": "Double Whirlwind",
+    "points": 6,
+    "finalsPoints": 36,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 55,
+    "level": 6,
+    "trickNumber": 5,
+    "name": "Double Gunslinger Spike",
+    "points": 6,
+    "finalsPoints": 36,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 56,
+    "level": 6,
+    "trickNumber": 6,
+    "name": "Stilt Flip, Flip In",
+    "points": 6,
+    "finalsPoints": 36,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 57,
+    "level": 6,
+    "trickNumber": 7,
+    "name": "2 Turn Airplane, Double Jumping Stick",
+    "points": 6,
+    "finalsPoints": 36,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 58,
+    "level": 6,
+    "trickNumber": 8,
+    "name": "Inward Lunar, Flip Cushion Tap Inward Lunar, In",
+    "points": 6,
+    "finalsPoints": 36,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 59,
+    "level": 6,
+    "trickNumber": 9,
+    "name": "Foot Spike",
+    "points": 6,
+    "finalsPoints": 36,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 60,
+    "level": 6,
+    "trickNumber": 10,
+    "name": "Lightning Drop Swap Spike",
+    "points": 6,
+    "finalsPoints": 36,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 61,
+    "level": 7,
+    "trickNumber": 1,
+    "name": "Tap Juggle Spike",
+    "points": 7,
+    "finalsPoints": 49,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 62,
+    "level": 7,
+    "trickNumber": 2,
+    "name": "Airplane, 1.5 Swap Juggle Spike",
+    "points": 7,
+    "finalsPoints": 49,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 63,
+    "level": 7,
+    "trickNumber": 3,
+    "name": "Around Stall, 1 Turn Spike",
+    "points": 7,
+    "finalsPoints": 49,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 64,
+    "level": 7,
+    "trickNumber": 4,
+    "name": "Bird, Kenflip Bird, 1 Turn Spike",
+    "points": 7,
+    "finalsPoints": 49,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 65,
+    "level": 7,
+    "trickNumber": 5,
+    "name": "1 Turn Lighthouse, Tap Lighthouse, Reverse Tap Lighthouse, Tradespike",
+    "points": 7,
+    "finalsPoints": 49,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 66,
+    "level": 7,
+    "trickNumber": 6,
+    "name": "Ken Grip Underbird, Pressure Underbird, Candle Grip Underbird, Swap In",
+    "points": 7,
+    "finalsPoints": 49,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 67,
+    "level": 7,
+    "trickNumber": 7,
+    "name": "Wing Over the Valley, 1 Turn Spike",
+    "points": 7,
+    "finalsPoints": 49,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 68,
+    "level": 7,
+    "trickNumber": 8,
+    "name": "Around Downspike Fasthand",
+    "points": 7,
+    "finalsPoints": 49,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 69,
+    "level": 7,
+    "trickNumber": 9,
+    "name": "Moshikame x 100 or More, Spike",
+    "points": 7,
+    "finalsPoints": 49,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 70,
+    "level": 7,
+    "trickNumber": 10,
+    "name": "1 Turn Lighthouse, Swap Toss Lighthouse, Stuntplane Fasthand",
+    "points": 7,
+    "finalsPoints": 49,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 71,
+    "level": 8,
+    "trickNumber": 1,
+    "name": "2 Tap Juggle Spike",
+    "points": 8,
+    "finalsPoints": 64,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 72,
+    "level": 8,
+    "trickNumber": 2,
+    "name": "Airplane, 1.5 Swap Juggle Bird, 1 Turn Spike",
+    "points": 8,
+    "finalsPoints": 64,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 73,
+    "level": 8,
+    "trickNumber": 3,
+    "name": "1-2-3 Lighthouse Flip, Tradespike",
+    "points": 8,
+    "finalsPoints": 64,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 74,
+    "level": 8,
+    "trickNumber": 4,
+    "name": "Kenflip Juggle Kenflip Juggle Spike",
+    "points": 8,
+    "finalsPoints": 64,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 75,
+    "level": 8,
+    "trickNumber": 5,
+    "name": "Juggle Spike, 2 Juggle Spike, 3 Juggle Spike",
+    "points": 8,
+    "finalsPoints": 64,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 76,
+    "level": 8,
+    "trickNumber": 6,
+    "name": "3 Gunslinger Bird, 1 Turn Spike",
+    "points": 8,
+    "finalsPoints": 64,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 77,
+    "level": 8,
+    "trickNumber": 7,
+    "name": "Stilt Over the Valley, Axe Over the Valley, Tradespike",
+    "points": 8,
+    "finalsPoints": 64,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 78,
+    "level": 8,
+    "trickNumber": 8,
+    "name": "Handlestall, Earth Turn Handlestall, Inward Earth Turn Handlestall, 1 Turn Spike",
+    "points": 8,
+    "finalsPoints": 64,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 79,
+    "level": 8,
+    "trickNumber": 9,
+    "name": "1 Turn Arm Bounce Swap Toss Arm Bounce Flip In",
+    "points": 8,
+    "finalsPoints": 64,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 80,
+    "level": 8,
+    "trickNumber": 10,
+    "name": "Kenflip Swap Stuntplane Fasthand",
+    "points": 8,
+    "finalsPoints": 64,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 81,
+    "level": 9,
+    "trickNumber": 1,
+    "name": "10 or More Juggle → Spike",
+    "points": 9,
+    "finalsPoints": 81,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 82,
+    "level": 9,
+    "trickNumber": 2,
+    "name": "Airplane, Big Tap x 2 → Swap Juggle Spike",
+    "points": 9,
+    "finalsPoints": 81,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 83,
+    "level": 9,
+    "trickNumber": 3,
+    "name": "1-2-3 Whirlwind",
+    "points": 9,
+    "finalsPoints": 81,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 84,
+    "level": 9,
+    "trickNumber": 4,
+    "name": "3 Kenflip → Inward 3 Kenflip Juggle Spike",
+    "points": 9,
+    "finalsPoints": 81,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 85,
+    "level": 9,
+    "trickNumber": 5,
+    "name": "Airplane, 1.5 Swap Gunslinger 1.5 Toss In",
+    "points": 9,
+    "finalsPoints": 81,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 86,
+    "level": 9,
+    "trickNumber": 6,
+    "name": "Stilt Over the Valley, Swap Bird Over the Valley, 1 Turn Spike",
+    "points": 9,
+    "finalsPoints": 81,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 87,
+    "level": 9,
+    "trickNumber": 7,
+    "name": "Wing Over the Valley, Handlestall, 1 Turn Spike",
+    "points": 9,
+    "finalsPoints": 81,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 88,
+    "level": 9,
+    "trickNumber": 8,
+    "name": "Airplane, 3.5 Flip Swap 3.5 Kenflip Juggle Downspike",
+    "points": 9,
+    "finalsPoints": 81,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 89,
+    "level": 9,
+    "trickNumber": 9,
+    "name": "Floor Spike Tap Spike Hold, Downspike",
+    "points": 9,
+    "finalsPoints": 81,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 90,
+    "level": 9,
+    "trickNumber": 10,
+    "name": "Mooncircle Mooncircle Kenflip-Flip Swing Spike",
+    "points": 9,
+    "finalsPoints": 81,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 91,
+    "level": 10,
+    "trickNumber": 1,
+    "name": "Airplane, Cushion Tap Swap Ghost Toss Tap Flip Swap Toss Cushion Tap In",
+    "points": 10,
+    "finalsPoints": 100,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 92,
+    "level": 10,
+    "trickNumber": 2,
+    "name": "3 Kenflip → 3 Kenflip Juggle 3.5 Toss In",
+    "points": 10,
+    "finalsPoints": 100,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 93,
+    "level": 10,
+    "trickNumber": 3,
+    "name": "Spike, Hippie 3 Flip Swap Spike",
+    "points": 10,
+    "finalsPoints": 100,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 94,
+    "level": 10,
+    "trickNumber": 4,
+    "name": "Airplane, 4 Tap Swap 1.5 Toss In",
+    "points": 10,
+    "finalsPoints": 100,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 95,
+    "level": 10,
+    "trickNumber": 5,
+    "name": "Kenflip Toss Cloud Bounce Juggle Kenflip Spike",
+    "points": 10,
+    "finalsPoints": 100,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 96,
+    "level": 10,
+    "trickNumber": 6,
+    "name": "3 Tap 3 Kenflip Juggle Spike",
+    "points": 10,
+    "finalsPoints": 100,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 97,
+    "level": 10,
+    "trickNumber": 7,
+    "name": "Around the Ken, Flip In",
+    "points": 10,
+    "finalsPoints": 100,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 98,
+    "level": 10,
+    "trickNumber": 8,
+    "name": "Backward Inward Lunar, 1.5 Backflip Lunar, 1.5 Backflip Inward Lunar, Flip Swap Spike",
+    "points": 10,
+    "finalsPoints": 100,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 99,
+    "level": 10,
+    "trickNumber": 9,
+    "name": "Flamingo Swing Spike, Flamingo Whirlwind (Under Playing-Side Leg)",
+    "points": 10,
+    "finalsPoints": 100,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 100,
+    "level": 10,
+    "trickNumber": 10,
+    "name": "Gunslinger Toss Lighthouse, Inward Lighthouse Flip Insta 3 Flip Swap Gunslinger Spike",
+    "points": 10,
+    "finalsPoints": 100,
+    "qualifier": true,
+    "finals": true
+  },
+  {
+    "id": 101,
+    "level": 11,
+    "trickNumber": 1,
+    "name": "Kenflip → 2 Kenflip Juggle 3 Kenflip Spike",
+    "points": 11,
+    "finalsPoints": 121,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 102,
+    "level": 11,
+    "trickNumber": 2,
+    "name": "Bird, Inward Toss Tap Swap Kenflip Bird, 1 Turn Spike",
+    "points": 11,
+    "finalsPoints": 121,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 103,
+    "level": 11,
+    "trickNumber": 3,
+    "name": "Cushion Tap Swap 2 Toss Cushion Tap Swap 3 Toss Cushion Tap Swap Spike",
+    "points": 11,
+    "finalsPoints": 121,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 104,
+    "level": 11,
+    "trickNumber": 4,
+    "name": "Kenflip Inward Kenflip Toss Tap Swap Inward Toss Tap Swap Spike",
+    "points": 11,
+    "finalsPoints": 121,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 105,
+    "level": 11,
+    "trickNumber": 5,
+    "name": "Stilt Flip 1-2-3, Flip In",
+    "points": 11,
+    "finalsPoints": 121,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 106,
+    "level": 11,
+    "trickNumber": 6,
+    "name": "Big Tap x 2 → Juggle Handlestall, Downspike Fasthand",
+    "points": 11,
+    "finalsPoints": 121,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 107,
+    "level": 11,
+    "trickNumber": 7,
+    "name": "4 Tap Juggle Kenflip Bird, 1 Turn Spike",
+    "points": 11,
+    "finalsPoints": 121,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 108,
+    "level": 11,
+    "trickNumber": 8,
+    "name": "Pull Up Tap Inward 2 Flip Swap Ghost Toss Tap Inward 2 Flip Inward Lunar, Tap Inward 2 Flip Swap Spike",
+    "points": 11,
+    "finalsPoints": 121,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 109,
+    "level": 11,
+    "trickNumber": 9,
+    "name": "Handlestall, Swap Stilt Over the Valley, Swap Handlestall, Downspike",
+    "points": 11,
+    "finalsPoints": 121,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 110,
+    "level": 11,
+    "trickNumber": 10,
+    "name": "Stuntplane, 3 Flip Stuntplane Penguin Fasthand",
+    "points": 11,
+    "finalsPoints": 121,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 111,
+    "level": 12,
+    "trickNumber": 1,
+    "name": "1.5 Gooncircle 1 Turn Stuntplane Fasthand",
+    "points": 12,
+    "finalsPoints": 144,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 112,
+    "level": 12,
+    "trickNumber": 2,
+    "name": "6 Tap Swap Toss Lighthouse Insta 3 Flip Swap 3 Kenflip Juggle Spike",
+    "points": 12,
+    "finalsPoints": 144,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 113,
+    "level": 12,
+    "trickNumber": 3,
+    "name": "1-2-3 Lunar Barrel Roll, In",
+    "points": 12,
+    "finalsPoints": 144,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 114,
+    "level": 12,
+    "trickNumber": 4,
+    "name": "Airplane, 1.5 Swap Kenflip-Flip-Flip 1.5 Toss In",
+    "points": 12,
+    "finalsPoints": 144,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 115,
+    "level": 12,
+    "trickNumber": 5,
+    "name": "Airplane, 3 Tap Swap Inward 3.5 Toss Tap Swap Inward 3.5 Toss In",
+    "points": 12,
+    "finalsPoints": 144,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 116,
+    "level": 12,
+    "trickNumber": 6,
+    "name": "1-2-3 Lighthouse Flip Insta Inward Lighthouse Flip, Tradespike",
+    "points": 12,
+    "finalsPoints": 144,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 117,
+    "level": 12,
+    "trickNumber": 7,
+    "name": "Inward Stilt, 4 Inward Stilt Flip, Flip In",
+    "points": 12,
+    "finalsPoints": 144,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 118,
+    "level": 12,
+    "trickNumber": 8,
+    "name": "Airplane, 4 Tap Swap Inward Gunslinger Downspike Fasthand",
+    "points": 12,
+    "finalsPoints": 144,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 119,
+    "level": 12,
+    "trickNumber": 9,
+    "name": "Pirouette Hanging Spike",
+    "points": 12,
+    "finalsPoints": 144,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 120,
+    "level": 12,
+    "trickNumber": 10,
+    "name": "Around Tunbridge Wells",
+    "points": 12,
+    "finalsPoints": 144,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 121,
+    "level": 13,
+    "trickNumber": 1,
+    "name": "Kenflip Juggle, Kenflip-Flip Juggle, Kenflip-Flip-Flip Spike",
+    "points": 13,
+    "finalsPoints": 169,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 122,
+    "level": 13,
+    "trickNumber": 2,
+    "name": "Big Tap x4 → Juggle, Ghost, Stuntplane, Fasthand",
+    "points": 13,
+    "finalsPoints": 169,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 123,
+    "level": 13,
+    "trickNumber": 3,
+    "name": "2 Tap Lighthouse, 4 Tap Lighthouse, 6 Tap Lighthouse, Tradespike",
+    "points": 13,
+    "finalsPoints": 169,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 124,
+    "level": 13,
+    "trickNumber": 4,
+    "name": "Bird, Toss, 2 Tap Swap, 1.5 Kenflip Juggle, 2 Inward Gunslinger, 1.5 Kenflip Juggle, Toss, 2 Tap Swap Bird, Downspike",
+    "points": 13,
+    "finalsPoints": 169,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 125,
+    "level": 13,
+    "trickNumber": 5,
+    "name": "1 Turn Lunar, 6 Tap Flip Lunar, 1 Turn In",
+    "points": 13,
+    "finalsPoints": 169,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 126,
+    "level": 13,
+    "trickNumber": 6,
+    "name": "Tap, 1.5 Swap Handlestall, Toss Tap, 1.5 Swap Handlestall, Downspike",
+    "points": 13,
+    "finalsPoints": 169,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 127,
+    "level": 13,
+    "trickNumber": 7,
+    "name": "Wing, Juggle 3 Kenflip Juggle Wing, 1 Turn Spike",
+    "points": 13,
+    "finalsPoints": 169,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 128,
+    "level": 13,
+    "trickNumber": 8,
+    "name": "Backward Inward Lunar, Tap 1.5 Tap Swap Kenflip Toss Tap 1.5 Tap Backward Inward Lunar, Flip Cushion Tap In",
+    "points": 13,
+    "finalsPoints": 169,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 129,
+    "level": 13,
+    "trickNumber": 9,
+    "name": "Spike, Whirlwind Around-the-Back Kengrip Catch Spike",
+    "points": 13,
+    "finalsPoints": 169,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 130,
+    "level": 13,
+    "trickNumber": 10,
+    "name": "3 Kenflip 3 Kenflip 3 Toss Stuntplane Fasthand",
+    "points": 13,
+    "finalsPoints": 169,
+    "qualifier": false,
+    "finals": true
+  }
+]

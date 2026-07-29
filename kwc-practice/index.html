@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>KWC Practice</title>
+
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <main class="app-container">
+
+        <!-- Home screen -->
+        <section id="home-screen" class="screen active">
+
+            <header class="app-header">
+                <p class="eyebrow">Kendama World Cup 2026</p>
+                <h1>Practice Runs</h1>
+
+                <p class="intro">
+                    Choose a format to begin building your
+                    practice run(s).
+                </p>
+            </header>
+
+            <div class="mode-grid">
+
+                <button
+                    class="mode-card"
+                    type="button"
+                    data-mode="preliminary"
+                >
+                    <span class="mode-label">Preliminary</span>
+
+                    <span class="mode-title">
+                        Preliminary Round Practice
+                    </span>
+
+                    <span class="mode-description">
+                        Select 10 tricks for two three-minute rounds with 5 tricks per round (no repeated tricks allowed).
+                    </span>
+                </button>
+
+                <button
+                    class="mode-card"
+                    type="button"
+                    data-mode="finals"
+                >
+                    <span class="mode-label">Finals</span>
+
+                    <span class="mode-title">
+                        Finals Practice
+                    </span>
+
+                    <span class="mode-description">
+                        Select between 10 and 30 tricks for a
+                        three-minute round.
+                    </span>
+                </button>
+
+            </div>
+        </section>
+
+
+        <!-- Trick selection screen -->
+        <section id="selection-screen" class="screen">
+
+            <button
+                id="back-home-button"
+                class="text-button"
+                type="button"
+            >
+                ← Back
+            </button>
+
+            <header class="selection-header">
+                <p class="eyebrow">Practice Mode</p>
+
+                <h2 id="selection-title">
+                    Select Tricks
+                </h2>
+
+                <p id="selection-description"></p>
+            </header>
+
+            <div class="level-filter">
+                <p class="level-filter-label">Filter by level</p>
+
+                <div id="level-filter-options" class="level-filter-options">
+                 <!-- JavaScript will add level buttons here -->
+                 </div>
+            </div>
+
+            <div class="selection-status">
+                <p id="selection-counter">
+                    Selected:
+                    <strong id="selected-count">0</strong>
+                </p>
+            </div>
+
+            <div class="selection-actions">
+                <button
+                    id="clear-selection-button"
+                    class="secondary-button"
+                    type="button">
+                    Clear Selection
+                </button>
+
+                <button
+                    id="start-practice-button"
+                    class="primary-button"
+                    disabled>
+                    Start Practice
+                </button>
+            </div>
+
+            <div class="table-container">
+                <table class="trick-table">
+                    <thead>
+                        <tr>
+                            <th>Select</th>
+                            <th>Level</th>
+                            <th>#</th>
+                            <th>Trick Name</th>
+                            <th>Points</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="trick-table-body">
+                    <!-- JavaScript will insert tricks here -->
+                    </tbody>
+                </table>
+            </div>
+
+            <p id="table-message" class="table-message"></p>
+
+        </section>
+
+            <!-- Practice Screen -->
+        <section id="practice-screen" class="screen">
+
+             <div class="practice-heading">
+                <p id="practice-mode-label" class="practice-mode-label"></p>
+                <h2 id="practice-round-title">Practice Round</h2>
+            </div>
+
+            <div
+                id="practice-timer"
+                class="practice-timer"
+                aria-live="polite"
+            >
+                3:00
+            </div>
+
+            <p
+                id="practice-message"
+                class="practice-message"
+                aria-live="polite"
+            >
+                Review your tricks, then start the timer when ready.
+            </p>
+
+            <ol
+                id="practice-trick-list"
+                class="practice-trick-list"
+            >
+                <!-- JavaScript adds the selected tricks here -->
+            </ol>
+
+            <div class="practice-actions">
+                <button
+                    id="start-timer-button"
+                    class="primary-button"
+                    type="button"
+                >
+                    Start Timer
+                </button>
+
+                <button
+                    id="next-round-button"
+                    class="primary-button hidden"
+                    type="button"
+                >
+                    Continue to Round 2
+                </button>
+
+                <button
+                    id="exit-practice-button"
+                    class="secondary-button"
+                    type="button"
+                >
+                    ← Back to Trick Selection
+                </button>
+            </div>
+
+        </section>
+
+        <!-- Results Screen -->
+         <section id="results-screen" class="screen">
+            <div class="results-header">
+                <p id="results-mode-label" class="screen-label">
+                    Practice Results
+                </p>
+
+                <h2 id="results-title">
+                    How did you do?
+                </h2>
+
+                <p id="results-description">
+                    Select each trick you landed to calculate your score.
+                </p>
+            </div>
+
+            <div id="results-content">
+                <!-- Result trick rows will be created with JavaScript -->
+            </div>
+            
+            <div class="score-breakdown">
+                <h3>Score Breakdown</h3>
+
+                <div class="score-line">
+                    <span>Base Score</span>
+                    <span id="results-base-score">0</span>
+                </div>
+
+                <div
+                    id="level-11-bonus-row"
+                    class="score-line hidden"
+                >
+                    <span>Level 11 Bonus</span>
+                    <span id="results-level-11-bonus">+0</span>
+                </div>
+
+                <div
+                    id="level-12-bonus-row"
+                    class="score-line hidden"
+                >
+                    <span>Level 12 Bonus</span>
+                    <span id="results-level-12-bonus">+0</span>
+                </div>
+
+                <div
+                    id="full-marks-bonus-row"
+                    class="score-line bonus-line hidden"
+                >
+                    <span>⭐ Full Marks Bonus</span>
+                    <span id="results-full-marks-bonus">+0</span>
+                </div>
+
+                <div class="score-total">
+                    <span>Total</span>
+                    <strong id="results-total-score">0</strong>
+                </div>
+            </div>
+
+            <div class="results-actions">
+                <button
+                    id="practice-again-button"
+                    class="primary-button"
+                    type="button"
+                >
+                    Practice Again
+                </button>
+
+                <button
+                    id="new-tricks-button"
+                    class="secondary-button"
+                    type="button"
+                >
+                    Choose New Tricks
+                </button>
+
+                <button
+                    id="results-home-button"
+                    class="secondary-button"
+                    type="button"
+                >
+                    Return Home
+                </button>
+            </div>
+        </section>
+
+    </main>
+
+    <script type="module" src="./js/app.js"></script>
+</body>
+</html>
