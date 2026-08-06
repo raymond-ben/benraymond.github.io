@@ -1298,5 +1298,205 @@
     "finalsPoints": 169,
     "qualifier": false,
     "finals": true
+  },
+  {
+    "id": 131,
+    "level": 14,
+    "trickNumber": 1,
+    "name": "Big Tap 3 Tap Juggle Kenflip 3 Kenflip Spike",
+    "points": 14,
+    "finalsPoints": 196,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 132,
+    "level": 14,
+    "trickNumber": 2,
+    "name": "5 Jumping Stick, Inward 5 Jumping Stick",
+    "points": 14,
+    "finalsPoints": 196,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 133,
+    "level": 14,
+    "trickNumber": 3,
+    "name": "Inward Lunar, Forward Tap 3 Flip Swap 3 Kenflip Inward 3 Toss Inward Lunar, Forward Tap 3 Flip Swap Spike",
+    "points": 14,
+    "finalsPoints": 196,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 134,
+    "level": 14,
+    "trickNumber": 4,
+    "name": "Airplane, 8 Tap Swap Kenflip Downspike Fasthand",
+    "points": 14,
+    "finalsPoints": 196,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 135,
+    "level": 14,
+    "trickNumber": 5,
+    "name": "3 Tap Lighthouse Insta 3 Lighthouse Flip Insta Toss Arm Bounce Inward 3 Flip Arm Lighthouse, Stuntplane Fasthand",
+    "points": 14,
+    "finalsPoints": 196,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 136,
+    "level": 14,
+    "trickNumber": 6,
+    "name": "Airplane, 10 Tap Juggle Handlestall, 1 Turn Spike",
+    "points": 14,
+    "finalsPoints": 196,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 137,
+    "level": 14,
+    "trickNumber": 7,
+    "name": "Big Wing, Toss Lighthouse Insta Swap 3 Kenflip Toss Lighthouse Insta Swap Small Wing, 1 Turn Spike",
+    "points": 14,
+    "finalsPoints": 196,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 138,
+    "level": 14,
+    "trickNumber": 8,
+    "name": "Stilt, Typhoon 3 Stilt Flip, Typhoon Flip In",
+    "points": 14,
+    "finalsPoints": 196,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 139,
+    "level": 14,
+    "trickNumber": 9,
+    "name": "2 Gunslinger Bird, 2 Gunslinger Bird Over the Valley, 2 Gunslinger Handlestall, 2 Gunslinger Spike",
+    "points": 14,
+    "finalsPoints": 196,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 140,
+    "level": 14,
+    "trickNumber": 10,
+    "name": "Stuntplane, 5 Stuntplane Flip Stuntplane Fasthand",
+    "points": 14,
+    "finalsPoints": 196,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 141,
+    "level": 15,
+    "trickNumber": 1,
+    "name": "4 Turn Inward Lunar, 4 Backflip Inward Lunar, Inward 4 Flip In",
+    "points": 15,
+    "finalsPoints": 225,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 142,
+    "level": 15,
+    "trickNumber": 2,
+    "name": "3 Kenflip - 3 Flip - 3 Flip Juggle 9 Tap Swap Spike",
+    "points": 15,
+    "finalsPoints": 225,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 143,
+    "level": 15,
+    "trickNumber": 3,
+    "name": "1-2-3-4-5 Stuntplane Flip",
+    "points": 15,
+    "finalsPoints": 225,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 144,
+    "level": 15,
+    "trickNumber": 4,
+    "name": "Inward Lunar, Knee Bounce Inward 3 Flip Juggle Ghost Toss Knee Bounce Inward 3 Flip Inward Lunar, Tradespike",
+    "points": 15,
+    "finalsPoints": 225,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 145,
+    "level": 15,
+    "trickNumber": 5,
+    "name": "6 Tap Swap Toss Lighthouse Insta 3 Lighthouse Flip Insta Swap Juggle 3 Kenflip - 3 Flip Juggle 3 Kenflip Stuntplane Fasthand",
+    "points": 15,
+    "finalsPoints": 225,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 146,
+    "level": 15,
+    "trickNumber": 6,
+    "name": "Candle Around Stall, 1 Turn Spike",
+    "points": 15,
+    "finalsPoints": 225,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 147,
+    "level": 15,
+    "trickNumber": 7,
+    "name": "1 Turn Lighthouse Insta 3 Flip 3 Tap Lighthouse Insta 3 Lighthouse Flip Insta 3 Flip 3 Tap Flip In",
+    "points": 15,
+    "finalsPoints": 225,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 148,
+    "level": 15,
+    "trickNumber": 8,
+    "name": "Inward Lunar, Inward Lunar Flip Insta Inward Lunar Backflip Insta Inward Lunar Flip Insta Inward Lunar Backflip Insta 2 Inward Lunar Flip Insta Inward Lunar Backflip Insta 3 Inward Lunar Flip Insta Inward Lunar Backflip, Falling In",
+    "points": 15,
+    "finalsPoints": 225,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 149,
+    "level": 15,
+    "trickNumber": 9,
+    "name": "Arm Landing, Tama Toss Arm Handlestall, Spike",
+    "points": 15,
+    "finalsPoints": 225,
+    "qualifier": false,
+    "finals": true
+  },
+  {
+    "id": 150,
+    "level": 15,
+    "trickNumber": 10,
+    "name": "Stuntplane, 3 Stuntplane Flip Cushion Tap Swap 3 Kenflip Juggle 2 Tap Big Tap 3 Tap Juggle 3 Kenflip Juggle 3 Kenflip 3 Kenflip Cushion Tap Stuntplane Fasthand",
+    "points": 15,
+    "finalsPoints": 225,
+    "qualifier": false,
+    "finals": true
   }
 ]

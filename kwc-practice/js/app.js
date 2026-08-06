@@ -83,20 +83,20 @@ const landedTrickIds = new Set();
 const resultsBaseScore =
     document.querySelector("#results-base-score");
 
-const resultsLevel11Bonus =
-    document.querySelector("#results-level-11-bonus");
+const resultsLevel14Bonus =
+    document.querySelector("#results-level-14-bonus");
 
-const resultsLevel12Bonus =
-    document.querySelector("#results-level-12-bonus");
+const resultsLevel15Bonus =
+    document.querySelector("#results-level-15-bonus");
 
 const resultsFullMarksBonus =
     document.querySelector("#results-full-marks-bonus");
 
-const level11BonusRow =
-    document.querySelector("#level-11-bonus-row");
+const level14BonusRow =
+    document.querySelector("#level-14-bonus-row");
 
-const level12BonusRow =
-    document.querySelector("#level-12-bonus-row");
+const level15BonusRow =
+    document.querySelector("#level-15-bonus-row");
 
 const fullMarksBonusRow =
     document.querySelector("#full-marks-bonus-row");
@@ -594,8 +594,8 @@ function calculateResultsScore() {
             : getTricksFromIds(selectedTrickIds);
 
     let baseScore = 0;
-    let level11Bonus = 0;
-    let level12Bonus = 0;
+    let level14Bonus = 0;
+    let level15Bonus = 0;
     let fullMarksBonus = 0;
 
     landedTrickIds.forEach((trickId) => {
@@ -616,12 +616,12 @@ function calculateResultsScore() {
 
         baseScore += level ** 2;
 
-        if (level === 11) {
-            level11Bonus += 30;
+        if (level === 14) {
+            level14Bonus += 30;
         }
 
-        if (level === 12) {
-            level12Bonus += 50;
+        if (level === 15) {
+            level15Bonus += 50;
         }
     });
 
@@ -640,31 +640,31 @@ function calculateResultsScore() {
 
     const totalScore =
         baseScore +
-        level11Bonus +
-        level12Bonus +
+        level14Bonus +
+        level15Bonus +
         fullMarksBonus;
 
     resultsBaseScore.textContent = baseScore;
 
-    resultsLevel11Bonus.textContent =
-        `+${level11Bonus}`;
+    resultsLevel14Bonus.textContent =
+        `+${level14Bonus}`;
 
-    resultsLevel12Bonus.textContent =
-        `+${level12Bonus}`;
+    resultsLevel15Bonus.textContent =
+        `+${level15Bonus}`;
 
     resultsFullMarksBonus.textContent =
         `+${fullMarksBonus}`;
 
     resultsTotalScore.textContent = totalScore;
 
-    level11BonusRow.classList.toggle(
+    level14BonusRow.classList.toggle(
         "hidden",
-        level11Bonus === 0
+        level14Bonus === 0
     );
 
-    level12BonusRow.classList.toggle(
+    level15BonusRow.classList.toggle(
         "hidden",
-        level12Bonus === 0
+        level15Bonus === 0
     );
 
     fullMarksBonusRow.classList.toggle(
@@ -718,11 +718,11 @@ function createResultSection(title, tricks) {
 
             pointValue = level ** 2;
 
-            if (level === 11) {
+            if (level === 14) {
                 pointValue += 30;
             }
 
-            if (level === 12) {
+            if (level === 15) {
                 pointValue += 50;
             }
         } else {
